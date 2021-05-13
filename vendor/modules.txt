@@ -38,11 +38,11 @@ github.com/imdario/mergo
 github.com/json-iterator/go
 # github.com/konsorten/go-windows-terminal-sequences v1.0.3
 github.com/konsorten/go-windows-terminal-sequences
-# github.com/loadimpact/k6 v0.29.0
+# go.k6.io/k6 v0.29.0
 ## explicit
-github.com/loadimpact/k6/js/common
-github.com/loadimpact/k6/js/internal/modules
-github.com/loadimpact/k6/js/modules
+go.k6.io/k6/js/common
+go.k6.io/k6/js/internal/modules
+go.k6.io/k6/js/modules
 # github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd
 github.com/modern-go/concurrent
 # github.com/modern-go/reflect2 v1.0.1
